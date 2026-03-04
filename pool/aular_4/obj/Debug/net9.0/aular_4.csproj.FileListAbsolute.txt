@@ -1,0 +1,14 @@
+C:\Users\Unip\Desktop\C#\pool\aular_4\bin\Debug\net9.0\aular_4.exe
+C:\Users\Unip\Desktop\C#\pool\aular_4\bin\Debug\net9.0\aular_4.deps.json
+C:\Users\Unip\Desktop\C#\pool\aular_4\bin\Debug\net9.0\aular_4.runtimeconfig.json
+C:\Users\Unip\Desktop\C#\pool\aular_4\bin\Debug\net9.0\aular_4.dll
+C:\Users\Unip\Desktop\C#\pool\aular_4\bin\Debug\net9.0\aular_4.pdb
+C:\Users\Unip\Desktop\C#\pool\aular_4\obj\Debug\net9.0\aular_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unip\Desktop\C#\pool\aular_4\obj\Debug\net9.0\aular_4.AssemblyInfoInputs.cache
+C:\Users\Unip\Desktop\C#\pool\aular_4\obj\Debug\net9.0\aular_4.AssemblyInfo.cs
+C:\Users\Unip\Desktop\C#\pool\aular_4\obj\Debug\net9.0\aular_4.csproj.CoreCompileInputs.cache
+C:\Users\Unip\Desktop\C#\pool\aular_4\obj\Debug\net9.0\aular_4.dll
+C:\Users\Unip\Desktop\C#\pool\aular_4\obj\Debug\net9.0\refint\aular_4.dll
+C:\Users\Unip\Desktop\C#\pool\aular_4\obj\Debug\net9.0\aular_4.pdb
+C:\Users\Unip\Desktop\C#\pool\aular_4\obj\Debug\net9.0\aular_4.genruntimeconfig.cache
+C:\Users\Unip\Desktop\C#\pool\aular_4\obj\Debug\net9.0\ref\aular_4.dll
